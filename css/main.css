@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+  box-sizing : border-box;
+  outline: 1px solid rgba(255, 0, 0, 0.2);
+}
+img{
+  display: block;
+  width: 100%;
+}
+.list-item{
+     list-style: none;
+}
+
+.row1{
+     display: block;
+     font-size: 18px;
+     font-weight: 400;
+     padding: 20px 20px;
+     margin: 20px auto;
+     float: right;
+}
+.info{
+     background-color: #F2E6CE;
+     padding: 20px 20px;
+}
+footer{
+     background-color: #0A7373;
+     color: #ffffff;
+     padding: 25px 25px;
+}
+/*----------------------------------------------------*/
+                  /*INDEX - HOME PAGE*/
+
+/*----------------------------------------------------*/
+                  /*ABOUT PAGE*/
+
+/*----------------------------------------------------*/
+                  /*NAVIGATION*/
